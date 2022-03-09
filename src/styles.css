@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: #F9FAFB;
+    margin: 0;
+    padding: 0;
+    
+  
+  }
+  .logo{
+    margin-top: 19px;
+    margin-left: 16px;
+    margin-bottom: 19px;
+  }
+  .airlines{
+    padding-left: 94px;
+    padding-top: 67px;
+    padding-bottom: 73px;
+  }
+  
+  .linear_white {
+    background: #000000;
+  }
+  
